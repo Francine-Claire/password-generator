@@ -27,6 +27,8 @@ Since security is one of the concerns in the digital world, having a password th
 - list
 - int
 - range
+- append()
+- choice()
 - input()
 - print()
 - shuffle()
